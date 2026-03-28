@@ -15,11 +15,6 @@ Cultivo rápido y fácil, ideal para principiantes.
 
 ---
 
-## 🌍 Regiones recomendadas
-
-- Todo el país
-
----
 
 ## 💧 Riego
 

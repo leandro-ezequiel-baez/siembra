@@ -15,16 +15,6 @@ Planta de verano muy productiva, requiere tutorado y buen sol.
 
 ---
 
-## 🌍 Regiones recomendadas
-
-- NOA: ✔
-- NEA: ✔
-- Cuyo: ✔
-- Pampeana: ✔
-- Patagonia: ✔ (con protección)
-
----
-
 ## 💧 Riego
 
 - Nivel: Medio-Alto
@@ -93,6 +83,3 @@ Planta de verano muy productiva, requiere tutorado y buen sol.
 
 ---
 
-## 🔗 Relacionados
-
-- [[Albahaca]]

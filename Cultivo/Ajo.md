@@ -1,5 +1,5 @@
 # 🌱 
-1. 🧄 [Ajo](../Cultivo/Ajo.md)
+🧄 [Ajo](../Cultivo/Ajo.md)
 
 ## 📝 Descripción
 Bulbo de invierno resistente.

@@ -15,7 +15,7 @@ Pleno sol
 ## 🤝 Asociaciones
 Buenas: [Zanahoria](../Cultivo/Zanahoria.md)  
 Malas: 
-1. 🧄 [Ajo](../Cultivo/Ajo.md)
+🧄 [Ajo](../Cultivo/Ajo.md)
 
 ## 💡 Consejos
 Usar soporte

@@ -1,6 +1,6 @@
 # 🌱 [Maíz](../Cultivo/Maiz.md)
 
----
+
 
 ## 📝 Descripción
 Cultivo alto que puede servir de soporte.
