@@ -66,8 +66,7 @@ Planta de verano muy productiva, requiere tutorado y buen sol.
 
 ## 🤝 Asociaciones
 
-- 🟢 Buenas: albahaca, [Zanahoria](../Cultivo/Zanahoria.md), 
-1. 🧄 [Ajo](../Cultivo/Ajo.md)
+- 🟢 Buenas: albahaca, [Zanahoria](../Cultivo/Zanahoria.md), [Ajo](../Cultivo/Ajo.md)
 - 🔴 Malas: papa
 
 ---
