@@ -2,7 +2,7 @@
 
 ### 🥬 Hortalizas
 - [Tomate 🍅](../Cultivo/Tomate.md) — trasplante — Pampeana, Cuyo, NOA
-- [Lechuga 🥬](../Cultivo/lechuga.md) — siembra directa — Todo el país
+- [Lechuga 🥬](../Cultivo/Lechuga.md) — siembra directa — Todo el país
 - [Zanahoria 🥕](../Cultivo/Zanahoria.md) — siembra directa — Pampeana, Patagonia
 
 ### 🌻 Aromáticas
